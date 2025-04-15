@@ -1,12 +1,12 @@
 {
-    "name": "webhooks-client",
+    "name": "websockets-client",
     "private": true,
     "version": "0.0.0",
     "type": "module",
     "scripts": {
         "start": "vite",
         "build": "vite build",
-        "lint": "eslint webhooks-client",
+        "lint": "eslint websockets-client",
         "preview": "vite preview",
         "prepare": "husky"
     },
