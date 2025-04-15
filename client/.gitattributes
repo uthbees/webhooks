@@ -1,0 +1,5 @@
+# Default line ending behaviour
+* text=auto eol=lf
+
+# Files that should never have their line endings modified
+*.ico binary
